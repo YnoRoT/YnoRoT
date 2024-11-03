@@ -1,1 +1,11 @@
+<!DOCTYPE HTML>
+<html>
 
+<body>
+<p>     </p>
+<script>
+alert ( 'Privet mir!' );
+<script>
+<p>     </p>
+</body>
+</html>
